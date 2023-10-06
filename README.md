@@ -11,12 +11,20 @@ Daiwei (David) Lu
 email: daiwei.lu @ vanderbilt.edu 
 
 
-**MICCAI**: 
+**MICCAI**: COLosSAL: A Benchmark for Cold-start Active Learning for 3D Medical Image Segmentation [[paper]](https://arxiv.org/pdf/2203.04959.pdf)[[code]](https://github.com/medicl-vu/colossal)
 
 Han Liu
+
+email: han.liu@vanderbilt.edu
 
 **MedAGI**: MAP: Domain Generalization via Meta-Learning on Anatomy-Consistent Pseudo-Modalities
 
 Dewei Hu
 
 email: dewei.hu @ vanderbilt.edu
+
+**BrainLes (CrossMoDA2023)**: Learning Site-specific Styles for Multi-institutional Unsupervised Cross-modality Domain Adaptation
+
+Han Liu
+
+email: han.liu@vanderbilt.edu
