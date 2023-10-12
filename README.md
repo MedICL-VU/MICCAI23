@@ -17,11 +17,11 @@ Han Liu
 
 email: han.liu@vanderbilt.edu
 
-**MedAGI**: MAP: Domain Generalization via Meta-Learning on Anatomy-Consistent Pseudo-Modalities
+**MedAGI**: MAP: Domain Generalization via Meta-Learning on Anatomy-Consistent Pseudo-Modalities [[paper]](https://arxiv.org/pdf/2309.01286.pdf) [[code]](https://github.com/DeweiHu/MAP)
 
 Dewei Hu
 
-email: dewei.hu @ vanderbilt.edu
+email: dewei.hu@vanderbilt.edu
 
 **BrainLes (CrossMoDA2023)**: Learning Site-specific Styles for Multi-institutional Unsupervised Cross-modality Domain Adaptation
 
